@@ -42,19 +42,19 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6287776600135'
+global.nomorown = '6283842839555'
+global.nomorown1 = '6287776600135'
+global.namebot = 'AkiraaBotz'
+global.nameown = 'BangSyaii'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
+  ['6283842839555'],
+  ['6287776600135'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6283842839555', 'BangSyaii', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -388,7 +388,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
+global.stickpack = 'By BangSyaii'
 global.stickauth = `NexEp`
 
 global.multiplier = 38 // The higher, The harder levelup
